@@ -81,7 +81,6 @@ image-captioning-coco2014/
 │   └── app.py                      # Gradio demo (deployed on HuggingFace Spaces)
 │
 ├── report/
-│   ├── ImageCaptioning_Report.tex  # LaTeX source
 │   ├── ImageCaptioning_Report.pdf  # Compiled PDF
 │   └── figures/                    # All figures used in the report
 │       ├── architecture.png
@@ -93,8 +92,6 @@ image-captioning-coco2014/
 │       ├── final-comparision.png
 │       └── effectoftraining.png
 │
-├── presentation/
-│   └── ImageCaptioning_Presentation.pptx
 │
 ├── requirements.txt
 ├── LICENSE
@@ -215,22 +212,6 @@ To use them locally, download from the [HuggingFace Space files](https://hugging
 
 ---
 
-## 📝 Citation
-
-If you use this work, please cite:
-
-```bibtex
-@misc{entezari2026captioning,
-  title  = {Image Captioning on COCO 2014: From a Transformer Built
-             from Scratch to Parameter-Efficient Fine-Tuning with BLIP + LoRA},
-  author = {Entezari, Amin and Sedghiye, Ali},
-  year   = {2026},
-  school = {Universit\`{a} degli Studi di Milano-Bicocca},
-  note   = {Foundations of Deep Learning, A.Y. 2025/2026}
-}
-```
-
----
 
 ## 📜 License
 
