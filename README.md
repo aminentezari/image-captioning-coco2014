@@ -9,7 +9,7 @@
 [![HuggingFace](https://img.shields.io/badge/🤗%20Demo-Live-yellow)](https://huggingface.co/spaces/amin-en/image-captioning-coco)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
-**Amin Entezari · Ali Sedghiye**
+**Amin Entezari**
 
 *Master's Degree in Data Science — Università degli Studi di Milano-Bicocca*
 *Foundations of Deep Learning — A.Y. 2025/2026*
